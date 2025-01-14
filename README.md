@@ -1,2 +1,3 @@
 # GitConflict
 Hello
+Hello there
